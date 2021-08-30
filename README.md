@@ -1,2 +1,2 @@
 # emoji-guesser
-Created with CodeSandbox
+A react js app which gives the name of the input emoji.
